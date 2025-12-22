@@ -157,14 +157,14 @@
 }
 
 .pro h4{
-    background-color: rgb(255, 217, 0);
+    background-color: rgb(250, 192, 86);
     color: rgba(0, 0, 0, 0.717);
     padding: 4px 8px;
     margin-top: 20px;
     text-transform: capitalize;
     margin-bottom: -15px;
     /* border: 2px solid black; */
-    font-size: 14px;
+    font-size: 12px;
 }
 
 
